@@ -1,4 +1,3 @@
-tobe creat
 # EDR Quantum Circuit Research Project
 
 This Jupyter Notebook is designed for a quantum computing research project, arXiv:2311.00303 (2023).
@@ -25,7 +24,7 @@ The Notebook contains the following sections:
 ### Data Analysis and Visualization
 
 - Perform data analysis on the simulation results.
-- Visualize the results using tools (e.g., probability distribution of quantum states).
+- Visualize the results using tools.
 
 ## Environment Setup
 
