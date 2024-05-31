@@ -1,6 +1,6 @@
 # EDR Quantum Circuit Research Project
 
-This Jupyter Notebook is designed for a quantum computing research project, arXiv:2311.00303 (2023).
+This Jupyter Notebook is designed for arXiv:2311.00303 (2023).
 
 
 ## Project Overview
